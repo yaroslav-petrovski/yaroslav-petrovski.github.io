@@ -12,4 +12,4 @@ Born to a German father and a mestiza mother, Kahlo spent most of her childhood 
 
 > I don't paint dreams or nightmares, I paint my own reality.
 
-<img src="https://commons.wikimedia.org/wiki/Category:Frida_Kahlo#/media/File:Frida_Kahlo,_by_Guillermo_Kahlo_(cropped).jpg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Frida_Kahlo%2C_by_Guillermo_Kahlo_%28cropped%29.jpg/800px-Frida_Kahlo%2C_by_Guillermo_Kahlo_%28cropped%29.jpg"/>
